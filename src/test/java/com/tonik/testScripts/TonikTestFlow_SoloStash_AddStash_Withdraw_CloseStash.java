@@ -103,5 +103,6 @@ public class TonikTestFlow_SoloStash_AddStash_Withdraw_CloseStash extends BaseTe
 		stashClosePage.brokeTheStash();
 		ExtentReporter.jiraID = "TON-8";
 
+
 	}
 }
