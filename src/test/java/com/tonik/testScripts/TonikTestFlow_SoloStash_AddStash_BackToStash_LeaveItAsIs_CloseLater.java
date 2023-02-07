@@ -94,6 +94,7 @@ public class TonikTestFlow_SoloStash_AddStash_BackToStash_LeaveItAsIs_CloseLater
 		mainPage.verifyTonikAccountBalance(newBalance);
 		ExtentReporter.jiraID = "TON-16";
     
+
 	}
 }
 
